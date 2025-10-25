@@ -8,7 +8,7 @@ It serves as a digital platform for users seeking astrological insights, horosco
 
 🌐 Live Preview
 Explore the live version here:  
-👉 [Mysta Website]http://127.0.0.1:5500/index.html
+👉 [Mysta Website] http://127.0.0.1:5500/index.html
 
 
  🧭 Overview
